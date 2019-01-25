@@ -539,6 +539,7 @@
       - rsyslog
       - rtorrent
       - ruby
+      - ruby-dev
       - rubygems-integration
       - samba-libs
       - sbcl
